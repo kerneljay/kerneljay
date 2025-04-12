@@ -30,6 +30,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="LUA" height="40" style="max-width: 100%;">
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React.JS" height="40" style="max-width: 100%;"> -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="cmake" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original.svg" alt="codepen" height="40" style="max-width: 100%;">
     
   </p>
 
@@ -40,10 +43,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PhP" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" alt="clion" height="40" style="max-width: 100%;">
   <p align="center">
   </p>
 
