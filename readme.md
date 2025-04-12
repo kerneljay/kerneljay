@@ -9,9 +9,9 @@
 
   ---
 
-  <p align="center"> 🔭 I’m currently working on ... frontend/backend projects, game projects (2D, sometimes 3D) and a FiveM server as a hobby</p>
-  <p align="center">👯 I’m looking to collaborate on ... anything that anyone that needs help with or a project they are working on</p>
-  <p align="center">⚡ Fun fact: ... I love music! If I am not programming, I am more than likely playing, listening or making music (guitar is my main instrument)</p>
+  <p align="center"> 🔭 I’m currently working on frontend/backend projects, game projects (2D, sometimes 3D) and a FiveM server as a hobby</p>
+  <p align="center">👯 I’m looking to collaborate on anything that anyone that needs help with or a project they are working on</p>
+  <p align="center">⚡ Fun fact: I love music! If I am not programming, I am more than likely playing, listening or making music</p>
 
   ---
 
@@ -20,11 +20,9 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SCSS" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PhP" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="SQL" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.JS" height="40" style="max-width: 100%;">
