@@ -32,7 +32,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="cmake" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original.svg" alt="codepen" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-line-wordmark.svg" alt="codepen" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="xml" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" height="40" style="max-width: 100%;">
     
