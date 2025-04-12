@@ -76,7 +76,7 @@
   </p>
 
   # 📈 GitHub Stats
-  ![christianbdev's Stats](https://github-readme-stats.vercel.app/api?username=christianbdev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-  ![christianbdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=christianbdev&theme=vue-dark&hide_border=false)
-  ![christianbdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christianbdev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+  ![kerneljay's Stats](https://github-readme-stats.vercel.app/api?username=kerneljay&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+  ![kerneljay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kerneljay&theme=vue-dark&hide_border=false)
+  ![kerneljay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kerneljay&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 </div>
