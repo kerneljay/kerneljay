@@ -43,7 +43,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PhP" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40" style="max-width: 100%;">
