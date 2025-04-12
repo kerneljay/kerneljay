@@ -1,2 +1,82 @@
-<h1 align="center">Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/></h1><p align="center"><b>Jay</b> | 22 | Yorkshire, England</p><p align="center"><a href="https://visitcount.itsvg.in"></a></p><div align="center"><h1>📊 GitHub Stats</h1><img src="https://github-readme-stats.vercel.app/api?username=jaylovesprogramming&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaylovesprogramming&theme=gotham&hide_border=false" alt="GitHub Streak Stats"/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaylovesprogramming&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/></div><div align="center"><h1>✍️ Random Quote</h1><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/></div><div align="center"><h1>💻 Programming Languages</h1><a href="https://www.lua.org/"><img src="https://skillicons.dev/icons?i=lua" alt="Lua"/></a><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a><a href="https://en.cppreference.com/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></a><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></a><a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a><a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell"/></a></div><div align="center"><h2>🛠️ Frameworks & Libraries</h2><a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a><a href="https://svelte.dev/"><img src="https://skillicons.dev/icons?i=svelte" alt="Svelte"/></a><a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite"/></a><a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/></a><a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue"/></a><a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express"/></a><a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS"/></a><a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/></a><a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery"/></a><a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter"/></a></div><div align="center"><h2>⚡ Tools & Platforms</h2><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a><a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"/></a><a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/></a><a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a><a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows" alt="Windows"/></a><a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare"/></a><a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx"/></a><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a><a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" alt="Notion"/></a><a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></a></div><div align="center"><h2>🗄️ Databases</h2><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a><a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"/></a><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a></div><div align="center"><h2>💼 Package Managers & Build Tools</h2><a href="https://pnpm.io/"><img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm"/></a><a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="npm"/></a><a href="https://yarnpkg.com/"><img src="https://skillicons.dev/icons?i=yarn" alt="yarn"/></a><a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake"/></a></div><div align="center"><h2>🖥️ Development Environments & IDEs</h2><a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio"/></a><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a></div>
-<h2 align="center">Contact Me On Discord</h2><p align="center"><a href="https://discord.com/users/425377411161391104"><img src="https://lanyard-profile-readme.vercel.app/api/425377411161391104?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Pay%20Me%20To%20Write%20You%20Code" alt="Discord Presence"/></a></p>
+<div align="center">
+  <div align="center">
+    <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500px" />
+  </div>
+  <br>
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&height=25&lines=Hello%2C+I+am+Christian+Bennett;Currently+a+Student+%40+EIU;Learning+Computer+%26+Information+Technolgy" alt="Typing SVG" />
+  </a>
+
+  ---
+
+  <p align="center"> 🔭 I’m currently working on ... Work projects and FiveM side projects</p>
+  <p align="center">👯 I’m looking to collaborate on ... anything that anyone that needs help with or a project they are working on</p>
+  <p align="center">⚡ Fun fact: ... I am also in the US Army National Guard (7 years in)</p>
+
+  ---
+
+  <h3 align="center">My Skills!</h3>
+  <p align="center">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SCSS" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PhP" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="SQL" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.JS" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="LUA" height="40" style="max-width: 100%;">
+  </p>
+
+  ---
+
+  <h3 align="center">Currently Learning!</h3>
+  <p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PhP" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React.JS" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.JS" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="max-width: 100%;">
+  </p>
+
+  ---
+
+  <h3 align="center">Frameworks</h3>
+
+  <p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.JS" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.JS" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.JS" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="max-width: 100%;">
+  </p>
+
+  ---
+
+  <h3 align="center">Databases</h3>
+
+  <p align="center">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" style="max-width: 100%;">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="40" style="max-width: 100%;">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" style="max-width: 100%;">
+  </p>
+
+  ---
+
+  <h3 align="Center">Connect with me:</h3>
+
+  <p align="center">
+    <a href="https://twitter.com/ChristianBDev" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a>
+    <a href="https://discord.gg/Bysgy2tPsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/christian-bennett-4a79a3191/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" height="30" width="40" /></a>
+  </p>
+
+  # 📈 GitHub Stats
+  ![christianbdev's Stats](https://github-readme-stats.vercel.app/api?username=christianbdev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+  ![christianbdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=christianbdev&theme=vue-dark&hide_border=false)
+  ![christianbdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christianbdev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+</div>
