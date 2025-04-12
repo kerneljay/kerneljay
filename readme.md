@@ -9,9 +9,9 @@
 
   ---
 
-  <p align="center"> 🔭 I’m currently working on ... Work projects and FiveM side projects</p>
+  <p align="center"> 🔭 I’m currently working on ... frontend/backend projects, game projects (2D, sometimes 3D) and a FiveM server as a hobby</p>
   <p align="center">👯 I’m looking to collaborate on ... anything that anyone that needs help with or a project they are working on</p>
-  <p align="center">⚡ Fun fact: ... I am also in the US Army National Guard (7 years in)</p>
+  <p align="center">⚡ Fun fact: ... I love music! If I am not programming, I am more than likely playing, listening or making music (guitar is my main instrument)</p>
 
   ---
 
