@@ -20,16 +20,15 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PhP" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.JS" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="LUA" height="40" style="max-width: 100%;">
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React.JS" height="40" style="max-width: 100%;"> -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40" style="max-width: 100%;">
     
   </p>
@@ -37,6 +36,8 @@
   ---
 
   <h3 align="center">Currently Learning!</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" height="40" style="max-width: 100%;">
   <p align="center">
   </p>
 
