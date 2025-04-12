@@ -4,7 +4,7 @@
   </div>
   <br>
    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&height=25&lines=Hello%2C+I+am+Jay;Currently+a+Student+%40+EIU;Learning+Computer+%26+Information+Technolgy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&height=25&lines=Hello%2C+I+am+Jay;Willing+to+learn+%40+;Learning+Computer+%26+Information+Technolgy" alt="Typing SVG" />
   </a>
 
   ---
@@ -28,17 +28,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.JS" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="LUA" height="40" style="max-width: 100%;">
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React.JS" height="40" style="max-width: 100%;"> -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="max-width: 100%;">
+    
   </p>
 
   ---
 
   <h3 align="center">Currently Learning!</h3>
   <p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PhP" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React.JS" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.JS" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="max-width: 100%;">
   </p>
 
   ---
@@ -46,11 +44,10 @@
   <h3 align="center">Frameworks</h3>
 
   <p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.JS" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.JS" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.JS" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="max-width: 100%;">
   </p>
 
   ---
