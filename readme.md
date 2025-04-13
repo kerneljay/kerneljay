@@ -24,6 +24,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.JS" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" alt="nodemon" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original-wordmark.svg" alt="pNPM" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" alt="bun" height="40" style="max-width: 100%;">
@@ -36,8 +38,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" alt="ssh" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" alt="nodemon" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="40" style="max-width: 100%;">
     
   </p>
 
