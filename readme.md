@@ -52,6 +52,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" alt="clion" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="threejs" height="40" style="max-width: 100%;">
   <p align="center">
   </p>
 
