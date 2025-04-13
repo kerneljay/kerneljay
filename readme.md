@@ -34,7 +34,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="xml" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" height="40" style="max-width: 100%;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" alt="vercel" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" alt="ssh" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" alt="nodemon" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="40" style="max-width: 100%;">
     
   </p>
 
@@ -53,6 +56,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" alt="clion" height="40" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="threejs" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" height="40" style="max-width: 100%;">
   <p align="center">
   </p>
 
