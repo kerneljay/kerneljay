@@ -84,8 +84,20 @@
   ---
 
 
-  # 📈 GitHub Stats
-  ![kerneljay's Stats](https://github-readme-stats.vercel.app/api?username=kerneljay&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-  ![kerneljay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kerneljay&theme=vue-dark&hide_border=false)
-  ![kerneljay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kerneljay&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+## 📈 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kerneljay&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="kerneljay's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerneljay&theme=vue-dark&hide_border=false" alt="kerneljay's GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerneljay&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="kerneljay's Top Languages" />
+    </td>
+  </tr>
+</table>
 </div>
