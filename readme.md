@@ -83,18 +83,18 @@
 
 ---
 
-<!-- Optional: Activity Graph -->
-<!--
+
+
 ### 📊 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerneljay&theme=vue-dark" alt="Activity Graph" />
--->
+
 
 <!-- Optional: GitHub Trophies -->
-<!--
+
 ### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=kerneljay&theme=vue-dark&margin-w=15&margin-h=15" alt="Trophies" />
--->
+
 
 </div>
