@@ -38,11 +38,11 @@
 <!-- Optional: WakaTime Section -->
 <!-- Requires setup: https://github.com/athul/waka-readme -->
 <!-- Replace 'yourWakaUsername' with your WakaTime username -->
-<!-- 
+
 <details>
 <summary>⏱️ WakaTime Stats</summary>
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaUsername&theme=vue-dark)
 
 </details>
--->
+
