@@ -99,5 +99,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerneljay&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="kerneljay's Top Languages" />
     </td>
   </tr>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerneljay&show_icons=true)
+
 </table>
 </div>
