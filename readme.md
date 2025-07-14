@@ -91,6 +91,7 @@
 
 
 <!-- Optional: GitHub Trophies -->
+---
 
 ### 🏆 GitHub Trophies
 
