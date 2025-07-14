@@ -73,13 +73,13 @@
 ## 📈 GitHub Stats
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=kerneljay&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kerneljay&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kerneljay&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kerneljay&theme=merko&hide_border=true" alt="GitHub Streak" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerneljay&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerneljay&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 
 ---
 
@@ -87,7 +87,7 @@
 
 ### 📊 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kerneljay&theme=vue-dark" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kerneljay&theme=merko" alt="Activity Graph" />
 
 
 <!-- Optional: GitHub Trophies -->
@@ -95,7 +95,7 @@
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=kerneljay&theme=vue-dark&margin-w=15&margin-h=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=kerneljay&theme=merko&margin-w=15&margin-h=15" alt="Trophies" />
 
 
 </div>
