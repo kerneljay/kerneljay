@@ -1,100 +1,48 @@
-<div align="center">
+## 📊 GitHub Dashboard
 
-<!-- GIF and Typing Animation -->
-  <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500px" />
+<details>
+<summary>📈 GitHub Stats</summary>
 
-  <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerneljay&show_icons=true&include_all_commits=true&rank_icon=github&theme=vue-dark)
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&height=25&lines=Hello%2C+I+am+Jay!;Willing+to+learn!;Need+to+work!" alt="Typing SVG" />
-  </a>
+</details>
 
----
+<details>
+<summary>🌐 Top Languages</summary>
 
-<!-- About Section -->
-<p align="center">🔭 Currently building full-stack applications and experimenting with Unity 3D game development as a creative outlet.</p>
-<p align="center">🤝 Open to collaborations — whether you're a startup, team, or individual looking for a reliable developer, I'd love to contribute and grow together!</p>
-<p align="center">🎵 I’m a musician who loves festivals and live music, and I also stay active by working out at home daily to keep both mind and body sharp.</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kerneljay&layout=compact&show_icons=true&theme=vue-dark)
 
----
+</details>
 
-<!-- Skills -->
-### 🛠 My Skills
+<details>
+<summary>🔥 Contribution Streak</summary>
 
-<p align="center">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" height="40" alt="Python" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=kerneljay&theme=vue-dark)
 
----
+</details>
 
-<!-- Currently Learning -->
-### 📚 Currently Learning
+<details>
+<summary>🗺️ Activity Graph</summary>
 
-<p align="center">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg" height="40" alt="Go" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kerneljay&theme=vue-dark)
 
----
+</details>
 
-<!-- Frameworks -->
-### ⚙️ Frameworks
+<details>
+<summary>🏆 GitHub Trophies</summary>
 
-<p align="center">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" height="40" alt="React.js" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/svelte/svelte-original.svg" height="40" alt="Svelte" />
-</p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=kerneljay&theme=vue-dark&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+</details>
 
-<!-- Databases -->
-### 🗃 Databases
+<!-- Optional: WakaTime Section -->
+<!-- Requires setup: https://github.com/athul/waka-readme -->
+<!-- Replace 'yourWakaUsername' with your WakaTime username -->
+<!-- 
+<details>
+<summary>⏱️ WakaTime Stats</summary>
 
-<p align="center">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
-</p>
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaUsername&theme=vue-dark)
 
----
-
-<!-- GitHub Stats Section (each individually testable) -->
-## 📈 GitHub Stats
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=kerneljay&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kerneljay&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerneljay&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-
----
-
-
-
-### 📊 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kerneljay&theme=vue-dark" alt="Activity Graph" />
-
-
-<!-- Optional: GitHub Trophies -->
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=kerneljay&theme=vue-dark&margin-w=15&margin-h=15" alt="Trophies" />
-
-
-</div>
+</details>
+-->
