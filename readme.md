@@ -9,9 +9,9 @@
 
   ---
 
-  <p align="center"> 🔭 I’m currently working on frontend/backend projects and a Unity 3D game as a hobby</p>
-  <p align="center">🤝 I'm open to collaborating on any project whether you need help or are looking for a teammate, I'd love to contribute!</p>
-  <p align="center">⚡ I love music! If I am not programming, I am more than likely playing, listening or making music</p>
+  <p align="center">🔭 Currently building full-stack applications and experimenting with Unity 3D game development as a creative outlet.</p>
+  <p align="center">🤝 Open to collaborations — whether you're a startup, team, or individual looking for a reliable developer, I'd love to contribute and grow together!</p>
+  <p align="center">🎵 I’m a musician who loves festivals and live music, and I also stay active by working out at home daily to keep both mind and body sharp.</p>
 
   ---
 
