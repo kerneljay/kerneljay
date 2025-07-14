@@ -42,7 +42,7 @@
 <details>
 <summary>⏱️ WakaTime Stats</summary>
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaUsername&theme=vue-dark)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kerneljay&theme=vue-dark)
 
 </details>
 
