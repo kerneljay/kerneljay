@@ -95,7 +95,7 @@
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=kerneljay&theme=merko&margin-w=15&margin-h=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=kerneljay&theme=nord&margin-w=15&margin-h=15" alt="Trophies" />
 
 
 </div>
